@@ -12,6 +12,7 @@ Password: Returns an enhanced hash generated from the given password
 
 # requirements:
 python 3.x
+
 hashlib (library)
 
 Please send us your ideas!
